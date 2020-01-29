@@ -22,5 +22,5 @@ jobs:
       - name: automerge
         uses: "pascalgn/automerge-action@f84dd310ea4a19890c70a4ff11ab282a872fb94b"
         env:
-          GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
+          GITHUB_TOKEN: "${{19062a6f7854e1fb22f9699f0765136f84d81818}}"
           AUTOMERGE: "automerge"
